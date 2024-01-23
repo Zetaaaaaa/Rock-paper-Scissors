@@ -10,7 +10,11 @@ Python 3.x
 
 Running the Game:
 Clone the repository to your local machine.
+
 Open a terminal window and navigate to the repository directory.
+
 Run the rock_paper_scissors.py file with the following command:
+
 python rock_paper_scissors.py
+
 Follow the on-screen instructions to play the game.
